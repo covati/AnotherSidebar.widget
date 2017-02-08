@@ -4,7 +4,7 @@
 
 options =
   # Easily enable or disable the widget.
-  widgetEnable: true
+  widgetEnable: false
 
   # Set the start date to count from.
   theDate     : "03/30/2017"

@@ -7,10 +7,10 @@ options =
   widgetEnable: true
 
   # Set the start date to count from.
-  theDate     : "02/07/2017"
+  theDate     : "02/13/2017"
 
   # The name of the event
-  name        : "Short Time"
+  name        : "The New Gig"
 
 command: "osascript 'AnotherSidebar.widget/TimeTrack.widget/Time Till.applescript' \"#{options.theDate}\""
 
